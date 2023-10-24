@@ -1,0 +1,2 @@
+nome: theo, idade: 11, curso: ti
+nome: rafael, idade: 16, curso: eng
