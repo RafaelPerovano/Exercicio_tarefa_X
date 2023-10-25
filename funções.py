@@ -54,4 +54,5 @@ def excluir():
     else:
         print('Esse nome nao esta nos dados')
     criar_arquivo_estudantes(dados)
+    
     return dados
